@@ -1,7 +1,7 @@
 {
-  "name": "Burgundy",
+  "name": "531 personal workout app",
   "version": "1.0.0",
-  "description": "100 Days of Code - Burgundy",
+  "description": "100 Days of Code project",
   "scripts": {
 		"prestart": "babel-node buildScripts/startMessage.js",
 		"start": "npm-run-all --parallel security-check open:src lint:watch test:watch start-mockapi",
