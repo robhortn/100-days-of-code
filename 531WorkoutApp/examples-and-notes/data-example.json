@@ -1,0 +1,90 @@
+{
+	"workout": {
+		"warmup": [
+			{ "name": "False grip mobility work - 2 sets of 90 seconds" },
+			{ "name": "Hamstring mobility work - 2 sets of 90 seconds" },
+			{ "name": "50 jumping jacks" },
+			{ "name": "20 bodyweight squats" },
+			{ "name": "10 hip extensions" },
+			{ "name": "5 hip rotations" },
+			{ "name": "10 forward leg swings" },
+			{ "name": "10 side leg swings" },
+			{ "name": "15 pushups" },
+			{ "name": "10 spiderman steps" }
+		],
+		"coolDown": [
+			{ "name": "Child's pose" },
+			{ "name": "Standing side stretch" },
+			{ "name": "Standing back bends" },
+			{ "name": "Downward dog" },
+			{ "name": "Lunge" },
+			{ "name": "Lunge (knee down)" },
+			{ "name": "Crescent moon (lunge with hands over head)" },
+			{ "name": "Forward fold" },
+			{ "name": "Child's pose" }
+		],
+		"cycle": "1",
+		"week": "1",
+		"dayNumber": "1",
+		"dayName": "MON",
+		"routine": {
+			"name": "squats",
+			"sets": [
+				{
+					"name": "Set 1",
+					"weight": "73",
+					"reps": "5",
+					"notes": ""
+				},
+				{
+					"name": "Set 2",
+					"weight": "86",
+					"reps": "5",
+					"notes": ""
+				},
+				{
+					"name": "Set 3",
+					"weight": "101",
+					"reps": "3",
+					"notes": ""
+				},
+				{
+					"name": "Set 4",
+					"weight": "119",
+					"reps": "5",
+					"notes": ""
+				},
+				{
+					"name": "Set 5",
+					"weight": "138",
+					"reps": "5",
+					"notes": ""
+				},
+				{
+					"name": "Set 6",
+					"weight": "156",
+					"reps": "5",
+					"notes": ""
+				}
+			],
+			"additionalWork": [
+				{
+					"name": "Bodyweight Squats",
+					"weight": "BW",
+					"reps": "10"
+				},
+				{
+					"name": "Bodyweight Squats",
+					"weight": "BW",
+					"reps": "10"
+				},
+				{
+					"name": "Bodyweight Squats",
+					"weight": "BW",
+					"reps": "10"
+				}
+			],
+			"additionalWorkNotes": "4 rounds of the following"
+		}
+	}
+}
